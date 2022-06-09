@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(14, 29, 78);
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    padding: 50px;
+    background-color: #7a0eff;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.nav>ul{
+    padding: 10px;
+    margin: 100px;
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+    padding: 90px;
+    background-color: rgb(100, 102, 207);
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 25px;
+}
+
+footer{
+    text-align: center;
+    justify-content: center;
+}
+
+.nav{
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: rgb(100, 102, 207);
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 25px;
+}
+button{
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(188, 199, 235);
+    cursor: pointer;
+}
+
+input{
+   padding: 5px;
+   border-radius: 10px;
+   background-color: rgb(217, 189, 243); 
+}
+
+.containerzinho{
+    padding: 25px;
+    background-color: rgb(188, 199, 235);
+    border-radius: 10px;
+}
+
+li a{
+    color: rgb(132, 196, 196);
+    text-decoration: none;
+    padding: 1px;
+    border-radius: 2px;
+    background-color: rgb(112, 113, 190);
+}
+
+li a:hover{
+    color: rgb(115, 62, 199);
+    text-decoration: none;
+    padding: 1px;
+    border-radius: 20px;
+    background-color: rgb(68, 70, 170);
+}
+th{
+    background-color: #312a48;
+    border-radius: 60px;
+    color: antiquewhite;
+    padding: 1rem;
+}
+td{
+    border: 3px solid #74dbdb;
+    border-radius: 20px;
+    padding: 0.5rem;
+    text-align: center;
+}
